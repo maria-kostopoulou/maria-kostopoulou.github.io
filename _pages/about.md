@@ -18,7 +18,7 @@ Welcome to my website!
 
 - I have been involved in two large-scale international research projects: [**VALESOR**](https://valesor.eu/valesor/about-the-project) and [**SWACHE**](https://www.oecd.org/en/topics/sub-issues/risk-management-risk-reduction-and-sustainable-chemistry/the-costs-and-benefits-of-regulating-chemicals.html), both focusing on the economic valuation of environmental health risks across multiple countries.
 
-- Feel free to reach out at maria.kostopoulou(at)minesparis.psl.eu — you can also find my CV [here](#).
+- Feel free to reach out at maria.kostopoulou(at)minesparis.psl.eu — you can also find my CV [here](https://maria-kostopoulou.github.io/files/mkostopoulou_cv.pdf).
 
 ## What's New
 
