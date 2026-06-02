@@ -21,7 +21,7 @@ redirect_from:
 - Feel free to reach out at maria.kostopoulou(at)minesparis.psl.eu — you can also find my CV [here](https://maria-kostopoulou.github.io/files/mkostopoulou_cv.pdf).
 
 ---
-I am drawn to research that speaks to policymakers and contributes to real decisions on environmental and health policy. Outside of research, I sing in a choir and do theater — which, it turns out, are not entirely unrelated to presenting research.
+I am drawn to work that speaks to policymakers and contributes to real decisions on environmental and health policy. Outside of academia, I sing in a choir and do theater — which, it turns out, are not entirely unrelated to presenting research.
 
 ## What's New
 
