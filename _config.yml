@@ -12,7 +12,7 @@ site_theme               : "dirt"
 title                    : "Maria Kostopoulou"
 title_separator          : "-"
 name                     : &name "Maria Kostopoulou"
-description              : &description "Ph.D. Student in Economics at Mines Paris-PSL"
+description              : &description "Ph.D. Candidate in Economics at Mines Paris-PSL"
 url                      : https://maria-kostopoulou.github.io
 baseurl                  : ""
 repository               : "maria-kostopoulou/maria-kostopoulou.github.io"
