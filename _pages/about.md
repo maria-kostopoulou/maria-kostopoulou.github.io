@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome to my website!
 
-- I'm a 2nd year **Ph.D. Candidate in Economics** at [Mines Paris – PSL](https://www.minesparis.psl.eu/), [CEDP](https://www.minesparis.psl.eu/cedp/), under the supervision of Prof. Daniel Herrera-Araujo. In March 2026, I visited the [Harvard T.H. Chan School of Public Health](https://hsph.harvard.edu/) as a Visiting Research Student.
+- I'm a **Ph.D. Candidate in Economics** at [Mines Paris – PSL](https://www.minesparis.psl.eu/), [CEDP](https://www.minesparis.psl.eu/cedp/), under the supervision of Prof. Daniel Herrera-Araujo. In March 2026, I visited the [Harvard T.H. Chan School of Public Health](https://hsph.harvard.edu/) as a Visiting Research Student.
 
 - My research lies at the intersection of **health, environmental, and welfare economics**. My current work focuses on:
   - The monetary valuation of climate-related health risks
@@ -21,7 +21,7 @@ redirect_from:
 - Feel free to reach out at maria.kostopoulou(at)minesparis.psl.eu — you can also find my CV [here](https://maria-kostopoulou.github.io/files/mkostopoulou_cv.pdf).
 
 ---
-I am drawn to work that speaks to policymakers and contributes to real decisions on environmental and health policy. Outside of academia, I sing in a choir and do theater — which, it turns out, are not entirely unrelated to presenting research.
+I'm drawn to work that speaks to policymakers and contributes to real decisions on environmental and health policy. Outside of academia, I sing in a choir and do theater — which, it turns out, are not entirely unrelated to presenting research.
 
 ## What's New
 
