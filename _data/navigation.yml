@@ -1,5 +1,7 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Policy Work"
+    url: /policy/
   - title: "Conferences & Talks"
     url: /conferences/
