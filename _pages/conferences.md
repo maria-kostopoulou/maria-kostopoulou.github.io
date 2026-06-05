@@ -6,11 +6,11 @@ author_profile: true
 
 ## Upcoming
 
-- Internal Seminar, U.S. Food and Drug Administration (FDA), USA *(forthcoming 2026)*
+-- [Nonmarket Valuation Workshop (JEEM/REE), Bilbao, Spain.](https://www.eaere.org/events/supported-events/jeem-ree-workshop-on-nonmarket-valuation-2/) *(forthcoming July 2026)*
+- Internal Seminar, U.S. Food and Drug Administration (FDA), USA *(forthcoming November 2026)*
 
 ## 2026
 
-- [Nonmarket Valuation Workshop (JEEM/REE), Bilbao, Spain.](https://www.eaere.org/events/supported-events/jeem-ree-workshop-on-nonmarket-valuation-2/) *(forthcoming July 2026)*
 - [Society for Benefit-Cost Analysis Annual Conference, Washington, DC, USA.](https://www.benefitcostanalysis.org/2026-annual-conference)
 - PhD Student Seminar, Harvard T.H. Chan School of Public Health, Boston, USA.
 
