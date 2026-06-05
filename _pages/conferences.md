@@ -6,7 +6,7 @@ author_profile: true
 
 ## Upcoming
 
--- [Nonmarket Valuation Workshop (JEEM/REE), Bilbao, Spain.](https://www.eaere.org/events/supported-events/jeem-ree-workshop-on-nonmarket-valuation-2/) *(forthcoming July 2026)*
+- [Nonmarket Valuation Workshop (JEEM/REE), Bilbao, Spain.](https://www.eaere.org/events/supported-events/jeem-ree-workshop-on-nonmarket-valuation-2/) *(forthcoming July 2026)*
 - Internal Seminar, U.S. Food and Drug Administration (FDA), USA *(forthcoming November 2026)*
 
 ## 2026
