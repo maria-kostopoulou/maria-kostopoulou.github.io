@@ -33,6 +33,4 @@ author_profile: true
 
 ## Work in Progress
 
-<ul>
 <li><strong>When Hospitals Overheat: Direct and Congestion-Driven Morbidity from Extreme Temperatures in France.</strong> Single-authored.
-</ul>
