@@ -16,7 +16,7 @@ redirect_from:
   - Equity-weighted benefit–cost analysis for public health policy
   - The health costs of extreme temperatures, with a focus on hospital congestion
 
-- I have been involved in two large-scale international research projects: [**VALESOR**](https://valesor.eu/valesor/about-the-project) and [**SWACHE**](https://www.oecd.org/en/topics/sub-issues/risk-management-risk-reduction-and-sustainable-chemistry/the-costs-and-benefits-of-regulating-chemicals.html), both focusing on the economic valuation of environmental health risks across multiple countries.
+- My work spans two large-scale international research projects — [**VALESOR**](https://valesor.eu/valesor/about-the-project) and [**SWACHE**](https://www.oecd.org/en/topics/sub-issues/risk-management-risk-reduction-and-sustainable-chemistry/the-costs-and-benefits-of-regulating-chemicals.html) — where I have collaborated with partners across a multi-country consortium, designed and managed international surveys, and applied economic valuation to environmental and chemical health risks.
 
 - Feel free to reach out at maria.kostopoulou(at)minesparis.psl.eu — you can also find my CV [here](https://maria-kostopoulou.github.io/files/mkostopoulou_cv.pdf).
 
