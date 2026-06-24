@@ -7,7 +7,7 @@ author_profile: true
 ## Upcoming
 
 - [Nonmarket Valuation Workshop (JEEM/REE)](https://www.eaere.org/events/supported-events/jeem-ree-workshop-on-nonmarket-valuation-2/), Bilbao, Spain *(forthcoming July 2026)*
-- [Society for Benefit-Cost Analysis European Conference](https://www.benefitcostanalysis.org/european-conference-2025](https://www.benefitcostanalysis.org/european-conference-2026), Leeds, UK *(forthcoming September 2026)*
+- [Society for Benefit-Cost Analysis European Conference](https://www.benefitcostanalysis.org/european-conference-2026), Leeds, UK *(forthcoming September 2026)*
 - Internal Seminar, U.S. Food and Drug Administration (FDA), USA *(forthcoming November 2026)*
 
 ## 2026
