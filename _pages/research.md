@@ -8,7 +8,7 @@ author_profile: true
 
 <ul>
 <li>Research on the distributional evaluation of environmental and health policies. Manuscript under review.</li>
-
+</ul>
 ## Working Papers
 
 <ul>
@@ -34,7 +34,6 @@ author_profile: true
 
 <li><strong>Valuing Multiple Health Risk Reductions from Air Pollution and Chemical Exposure: Can Aggregation Bias Be Ignored?</strong> with M. Travers, G. Appéré, S. Navrud, H. Lindhjem & D. Herrera-Araujo. Working paper.
 <details><summary>Abstract</summary><p>Policies that reduce air pollution and chemical exposure often generate several health benefits simultaneously. Economic evaluations, however, frequently aggregate WTP estimates elicited separately for morbidity-risk reductions. This paper examines whether this potential aggregation bias can be ignored when preferences over multiple health risks are non-additive. We develop an analytical framework that extends the standard two-risk case to any number of morbidity risks and decompose WTP aggregation bias into two mechanisms. Independent Valuation and Summation (IVS) bias arises from cross-risk interactions when each risk reduction is valued against a common multi-risk baseline. Separate Valuation and Summation (SVS) bias arises when each risk is valued in isolation and respondents ignore, downplay, or misperceive non-valued risks. We assess these mechanisms using a Pseudo-Separate Valuation procedure embedded in a discrete choice experiment on asthma, chronic kidney disease, and type 2 diabetes in 6 European countries. IVS bias is small for marginal risk changes, whereas SVS bias is large and sensitive to assumptions about perceived background risks. Accounting for these mechanisms is therefore important for the economic appraisal of environmental health policies and benefit transfer. Aggregating health-risk values is not a mechanical summation problem, but requires explicit assumptions about risk interactions and perceived non-valued risks.</p></details></li>
-</ul>
 
 <br>
 
