@@ -9,7 +9,7 @@ author_profile: true
 
 - Internal Seminar, U.S. Food and Drug Administration (FDA), USA
 - [Society for Benefit-Cost Analysis European Conference](https://www.benefitcostanalysis.org/european-conference-2026), Leeds, UK
-- [Nonmarket Valuation Workshop (JEEM/REE)](https://www.eaere.org/events/supported-events/jeem-ree-workshop-on-nonmarket-valuation-2/), Bilbao, Spain*
+- [Nonmarket Valuation Workshop (JEEM/REE)](https://www.eaere.org/events/supported-events/jeem-ree-workshop-on-nonmarket-valuation-2/), Bilbao, Spain
 - [Society for Benefit-Cost Analysis Annual Conference](https://www.benefitcostanalysis.org/2026-annual-conference), Washington, DC, USA
 - PhD Student Seminar, Harvard T.H. Chan School of Public Health, Boston, USA
 
