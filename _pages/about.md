@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome to my website!
 
-- I'm a **Ph.D. Candidate in Economics** at [Mines Paris – PSL](https://www.minesparis.psl.eu/), [CEDP](https://www.minesparis.psl.eu/cedp/), under the supervision of Prof. Daniel Herrera-Araujo. In March 2026, I visited the [Harvard T.H. Chan School of Public Health](https://hsph.harvard.edu/) as a Visiting Research Student.
+- I'm a **Ph.D. Candidate in Economics** at [Mines Paris – PSL](https://www.minesparis.psl.eu/), [CEDP](https://www.minesparis.psl.eu/cedp/), under the supervision of Prof. Daniel Herrera-Araujo. In March 2026, I visited the [Harvard T.H. Chan School of Public Health](https://hsph.harvard.edu/) as a Visiting Research Student. **I am currently on the 2026–2027 academic job market.**
 
 - My research lies at the intersection of **health, environmental, and welfare economics**. My current work focuses on:
   - The monetary valuation of climate-related health risks
@@ -25,5 +25,4 @@ I'm drawn to work that speaks to policymakers and contributes to real decisions 
 
 ## What's New
 
-- Presenting at the [JEEM/REE Nonmarket Valuation Workshop](https://www.eaere.org/events/supported-events/jeem-ree-workshop-on-nonmarket-valuation-2/), Bilbao, Spain in July
 - New [OECD Environment Working Paper](https://www.oecd.org/en/publications/valuing-a-reduction-in-the-risk-of-non-fatal-cancer_0345660e-en.html) out, on the monetary valuation of reductions in non-fatal cancer risk.
