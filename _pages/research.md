@@ -6,15 +6,14 @@ author_profile: true
 
 ## Under review
 
-<li><strong>Manuscript under review.</strong> Research on the distributional evaluation of environmental and health policies.</li>
+<ul>
+<li>Research on the distributional evaluation of environmental and health policies. Manuscript under review.</li>
 
 ## Working Papers
 
 <ul>
 <li><strong>Valuing a Reduction in the Risk of Non-Fatal Cancer</strong> <em>(under review, Environmental and Resource Economics)</em> with D. Herrera-Araujo, H. Andersson, D. Dussaux & O. Byström. OECD Environment Working Papers, 2026. <a href="https://www.oecd.org/en/publications/valuing-a-reduction-in-the-risk-of-non-fatal-cancer_0345660e-en.html" target="_blank">[link]</a>
 <details><summary>Abstract</summary><p>Cancer is associated with various environmental contaminants and chemicals, including heavy metals, pesticides, as well as foodborne and waterborne pathogens. Many of these hazards are subject to regulation, or may be considered for regulation, to reduce exposure and prevent human health risks. In addition to the well-known significant mortality risks, cancer also causes substantial morbidity, including debilitating symptoms and treatment side effects that severely impact patients' quality of life. Despite this, there has been no comprehensive study of the morbidity of cancer, making it difficult to fully assess the broader burden and economic implications of cancer. This paper is part of the series of large-scale willingness-to-pay (WTP) studies resulting from the Surveys on Willingness-to-pay to Avoid Negative Chemicals-Related Health Effects (SWACHE) project that intends to improve the basis for doing cost benefit analyses of chemicals management options and environmental policies in general. The present paper details a stated preference survey estimating the value of avoiding a case of non-fatal cancer (VNF). The SWACHE non-fatal cancer survey was fielded in 10 countries: Canada, Denmark, Estonia, Japan, Mexico, Norway, Slovenia, Spain, the United Kingdom and the United States. In each country, a sample of approximately 1 200 individuals representative of the general population was collected and empirically analysed. Based on this survey, the mean VNF is USD2023 Purchasing Power Parity (PPP) 883 000. The VNF ranges from USD2023 PPP 559 000 in Mexico to USD2023 PPP 1 266 000 in the United States.</p></details></li>
-
-<br>
 
 <!--
 <li><strong>Equity-Weighted Benefit–Cost Analysis for Air-Quality Policy: A Framework and Application to France</strong> with D. Herrera-Araujo. Under Review.
@@ -44,7 +43,7 @@ author_profile: true
 </ul>
 
 ## Work in Progress
-
+<ul>
 <li><strong>The Hidden Cost of Heatwaves: Obstetric Outcomes and Hospital Congestion in France</strong> Single-authored.
 <details><summary>Abstract</summary><p>Heatwaves affect health not only through direct physiological exposure, but also by placing pressure on healthcare systems when sharp increases in demand coincide with limited hospital capacity. This paper studies how heatwave-related congestion affects obstetric care in France. The analysis uses individual-level administrative data from the Système National des Données de Santé covering all deliveries in France between 2003 and 2019, linked to temperature records and emergency-department indicators of healthcare system pressure. The empirical strategy exploits within-heatwave variation by comparing women in their ninth month of pregnancy who deliver at different points within a heatwave event, when accumulated demand is greatest and working conditions for clinical staff are likely to be most strained. This approach helps separate the effects of healthcare system congestion from direct heat exposure. By following mothers beyond delivery, the paper estimates both the immediate and longer-term morbidity. The results provide the first evidence for France on the indirect health costs of heatwave-related healthcare congestion in obstetric care.</p></details></li>
 </ul>
